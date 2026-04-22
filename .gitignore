@@ -1,0 +1,15 @@
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# .NET
+**/bin/
+**/obj/
+
+# OS
+.DS_Store
+
+# Secrets
+*.user
+*.suo
